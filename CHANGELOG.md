@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.6.0](https://github.com/feerglas/release-env-sandbox/compare/v1.5.0...v1.6.0) (2025-03-30)
+
+
+### Features
+
+* disable release-please branches ([5ab1548](https://github.com/feerglas/release-env-sandbox/commit/5ab1548654968f628526b6657d76176ede90a203))
+* disable release-please branches ([a09e874](https://github.com/feerglas/release-env-sandbox/commit/a09e87486ab2823dc184729e17d98606f5e10345))
+* retry ([09e7221](https://github.com/feerglas/release-env-sandbox/commit/09e722129edc0af1f036bfa5bd07bfb38b5f08e9))
+* retry aagain ([689c7f8](https://github.com/feerglas/release-env-sandbox/commit/689c7f84915d403a9f609362b60a8549a2c7aeab))
+* retry again ([c93fc88](https://github.com/feerglas/release-env-sandbox/commit/c93fc88ae393578a1674caf35a37799e2978d1ae))
+* tra 4again ([ccdadb5](https://github.com/feerglas/release-env-sandbox/commit/ccdadb5244a358a90e52ca09ecf8f13c70eb7a38))
+* try 5again ([9a09b49](https://github.com/feerglas/release-env-sandbox/commit/9a09b496d23e67956aa8cde4ea6809c56f917fba))
+* try aaagain ([65c4d9f](https://github.com/feerglas/release-env-sandbox/commit/65c4d9fb3cb00ad3a1a72a061e0345cc58252ea4))
+
 ## [1.5.0](https://github.com/feerglas/release-env-sandbox/compare/v1.4.0...v1.5.0) (2025-03-30)
 
 
