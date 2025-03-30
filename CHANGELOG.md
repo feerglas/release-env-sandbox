@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/feerglas/release-env-sandbox/compare/v1.6.0...v1.7.0) (2025-03-30)
+
+
+### Features
+
+* change ignore pattern ([8c0f7c3](https://github.com/feerglas/release-env-sandbox/commit/8c0f7c3560c0c5a6dfa51d7ed2316988ff0368a4))
+
 ## [1.6.0](https://github.com/feerglas/release-env-sandbox/compare/v1.5.0...v1.6.0) (2025-03-30)
 
 
