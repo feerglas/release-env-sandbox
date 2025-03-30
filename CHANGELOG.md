@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/feerglas/release-env-sandbox/compare/v1.3.0...v1.4.0) (2025-03-30)
+
+
+### Features
+
+* test commit ([64ec898](https://github.com/feerglas/release-env-sandbox/commit/64ec898e5d2088da57b855f448262d0d3dd6b943))
+* test commit ([9180f87](https://github.com/feerglas/release-env-sandbox/commit/9180f877894908c8ade4a9de9f9e11a61a39226a))
+
 ## [1.3.0](https://github.com/feerglas/release-env-sandbox/compare/v1.2.0...v1.3.0) (2025-03-30)
 
 
