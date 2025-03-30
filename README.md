@@ -1,1 +1,1 @@
-testing tag deployment foo
+testing tag deployment
