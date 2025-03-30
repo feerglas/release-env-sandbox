@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/feerglas/release-env-sandbox/compare/v1.2.0...v1.3.0) (2025-03-30)
+
+
+### Features
+
+* only disable on main ([b592e23](https://github.com/feerglas/release-env-sandbox/commit/b592e23a0564a258499db9666cb855c924e628cf))
+
 ## [1.2.0](https://github.com/feerglas/release-env-sandbox/compare/v1.1.0...v1.2.0) (2025-03-30)
 
 
