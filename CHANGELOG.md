@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/feerglas/release-env-sandbox/compare/v1.1.0...v1.2.0) (2025-03-30)
+
+
+### Features
+
+* change token ([619c8b8](https://github.com/feerglas/release-env-sandbox/commit/619c8b81ada8ead10e7e51198cbd10552791d301))
+
 ## [1.1.0](https://github.com/feerglas/release-env-sandbox/compare/v1.0.0...v1.1.0) (2025-03-30)
 
 
