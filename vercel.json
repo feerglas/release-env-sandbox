@@ -3,7 +3,7 @@
   "git": {
     "deploymentEnabled": {
       "main": false,
-      "chore(main): release *": false
+      "release-please--*": false
     }
   }
 }
