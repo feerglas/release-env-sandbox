@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/feerglas/release-env-sandbox/compare/v1.0.0...v1.1.0) (2025-03-30)
+
+
+### Features
+
+* fake feat commit ([73f04a3](https://github.com/feerglas/release-env-sandbox/commit/73f04a35b470a2ee185e06235a91222ee7a0f417))
+
 ## 1.0.0 (2025-03-30)
 
 
