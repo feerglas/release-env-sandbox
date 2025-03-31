@@ -22,5 +22,5 @@
       "destination": "/"
     }
   ],
-  "buildCommand": "npm run buid && npm run build-storybook"
+  "buildCommand": "npm run build && npm run build-storybook"
 }
