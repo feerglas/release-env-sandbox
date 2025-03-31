@@ -5,5 +5,21 @@
       "main": false,
       "release-please--*": false
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/storybook",
+      "destination": "/storybook/"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/storybook",
+      "destination": "/storybook"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
 }
