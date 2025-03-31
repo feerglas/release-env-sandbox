@@ -21,5 +21,6 @@
       "source": "/(.*)",
       "destination": "/"
     }
-  ]
+  ],
+  "buildCommand": "npm run buid && npm run build-storybook"
 }
