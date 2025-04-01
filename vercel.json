@@ -6,21 +6,5 @@
       "release-please--*": false
     }
   },
-  "redirects": [
-    {
-      "source": "/storybook",
-      "destination": "/storybook/"
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/storybook",
-      "destination": "/storybook"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
-  ],
-  "buildCommand": "npm run build && npm run build-storybook"
+  "buildCommand": "node -v && npm run build"
 }
