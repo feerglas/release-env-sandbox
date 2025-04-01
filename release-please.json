@@ -27,5 +27,6 @@
       "section": "Chore",
       "hidden": false
     }
-  ]
+  ],
+  "versioning": "always-bump-patch"
 }

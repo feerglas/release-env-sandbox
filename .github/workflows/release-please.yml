@@ -17,5 +17,4 @@ jobs:
         with:
           token: ${{ secrets.RELEASE_PLEASE_TOKEN }}
           release-type: simple
-          versioning-strategy: always-bump-patch
-          config-file: release-please.json
+          manifest-file: release-please.json
