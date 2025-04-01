@@ -28,5 +28,6 @@
       "hidden": false
     }
   ],
-  "versioning": "always-bump-patch"
+  "versioning": "always-bump-patch",
+  "version-file": "version.txt"
 }
