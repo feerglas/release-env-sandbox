@@ -33,6 +33,5 @@
   "packages": {
     ".": {}
   },
-  "changelog-type": "github",
-  "always-update": true
+  "changelog-type": "github"
 }
