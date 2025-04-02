@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.7.14 (2025-04-02)
+
+**Full Changelog**: https://github.com/feerglas/release-env-sandbox/compare/v1.7.13...v1.7.14
+
 ## 1.7.13 (2025-04-02)
 
 ## What's Changed
