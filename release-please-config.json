@@ -30,5 +30,8 @@
   ],
   "versioning": "always-bump-patch",
   "pull-request-header": "FOOOOO",
+  "packages": {
+    ".": {}
+  },
   "version-file": "version.txt"
 }
