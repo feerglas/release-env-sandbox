@@ -31,7 +31,9 @@
   "versioning": "always-bump-patch",
   "pull-request-header": "FOOOOO",
   "packages": {
-    ".": {}
+    ".": {
+      "changelog-path": "CHANGELOG.md"
+    }
   },
   "changelog-type": "github"
 }
