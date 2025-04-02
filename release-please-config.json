@@ -29,5 +29,8 @@
     }
   ],
   "versioning": "always-bump-patch",
-  "pull-request-header": "FOOOOO"
+  "pull-request-header": "FOOOOO",
+  "packages": {
+    ".": {}
+  }
 }
