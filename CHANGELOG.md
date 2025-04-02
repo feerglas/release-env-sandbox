@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.7.13 (2025-04-02)
+
+## What's Changed
+* Feat/squash again by @feerglas in https://github.com/feerglas/release-env-sandbox/pull/49
+* Feat/squashi by @feerglas in https://github.com/feerglas/release-env-sandbox/pull/51
+
+
+**Full Changelog**: https://github.com/feerglas/release-env-sandbox/compare/v1.7.12...v1.7.13
+
 ## 1.7.12 (2025-04-02)
 
 ## What's Changed
