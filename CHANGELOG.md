@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.5](https://github.com/feerglas/release-env-sandbox/compare/v1.7.4...v1.7.5) (2025-04-01)
+
+
+### Bug Fixes
+
+* wso ([9b15704](https://github.com/feerglas/release-env-sandbox/commit/9b15704073d5d70e17073e53085a540868d17caa))
+
 ## [1.7.4](https://github.com/feerglas/release-env-sandbox/compare/v1.7.3...v1.7.4) (2025-04-01)
 
 
