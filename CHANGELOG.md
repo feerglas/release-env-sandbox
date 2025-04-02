@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.7.9 (2025-04-02)
+
+## What's Changed
+* chore: wso by @feerglas in https://github.com/feerglas/release-env-sandbox/pull/31
+
+
+**Full Changelog**: https://github.com/feerglas/release-env-sandbox/compare/v1.7.8...v1.7.9
+
 ## 1.7.8 (2025-04-02)
 
 **Full Changelog**: https://github.com/feerglas/release-env-sandbox/compare/v1.7.7...v1.7.8
