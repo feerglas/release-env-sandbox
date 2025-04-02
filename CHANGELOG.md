@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.7.12 (2025-04-02)
+
+## What's Changed
+* Feat  label issues by @feerglas in https://github.com/feerglas/release-env-sandbox/pull/43
+* Feat/test squash by @feerglas in https://github.com/feerglas/release-env-sandbox/pull/45
+* Feat/test sqush 3 by @feerglas in https://github.com/feerglas/release-env-sandbox/pull/47
+
+
+**Full Changelog**: https://github.com/feerglas/release-env-sandbox/compare/v1.7.11...v1.7.12
+
 ## 1.7.11 (2025-04-02)
 
 ## What's Changed
