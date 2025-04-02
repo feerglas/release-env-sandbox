@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.7.7](https://github.com/feerglas/release-env-sandbox/compare/v1.7.6...v1.7.7) (2025-04-02)
+
+
+### Chore
+
+* wso ([81aa561](https://github.com/feerglas/release-env-sandbox/commit/81aa56187f37d0dee88f1b900d06af0bbb856552))
+* wso ([6db13e3](https://github.com/feerglas/release-env-sandbox/commit/6db13e384877c5cbc54dbd2150c01f7666939f64))
+* wso ([6efc8b8](https://github.com/feerglas/release-env-sandbox/commit/6efc8b8777c877395e4e518bfb3ba9e2a138d76e))
+* wso ([c012fd1](https://github.com/feerglas/release-env-sandbox/commit/c012fd1fda704cb7034ebfbd849eb41f1139c482))
+* wso ([6a3806c](https://github.com/feerglas/release-env-sandbox/commit/6a3806cd0329060d25795adcd0a71518da51adfc))
+
 ## [1.7.6](https://github.com/feerglas/release-env-sandbox/compare/v1.7.5...v1.7.6) (2025-04-02)
 
 
