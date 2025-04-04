@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.8.0 (2025-04-04)
+
+## What's Changed
+* Feat/something by @feerglas in https://github.com/feerglas/release-env-sandbox/pull/54
+
+
+**Full Changelog**: https://github.com/feerglas/release-env-sandbox/compare/v1.7.14...v1.8.0
+
 ## 1.7.14 (2025-04-02)
 
 **Full Changelog**: https://github.com/feerglas/release-env-sandbox/compare/v1.7.13...v1.7.14
