@@ -58,7 +58,7 @@
       "hidden": false
     }
   ],
-  "prerelease": true,
+  "pull-request-footer": "",
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md"
