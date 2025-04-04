@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.8.6](https://github.com/feerglas/release-env-sandbox/compare/v1.8.5...v1.8.6) (2025-04-04)
+
+
+### Chore
+
+* final ([f62f357](https://github.com/feerglas/release-env-sandbox/commit/f62f3575f75a1c4b3030bc313a73bbe7517928da))
+* final ([#66](https://github.com/feerglas/release-env-sandbox/issues/66)) ([f62f357](https://github.com/feerglas/release-env-sandbox/commit/f62f3575f75a1c4b3030bc313a73bbe7517928da))
+* Release-As: 2.0.0 ([f62f357](https://github.com/feerglas/release-env-sandbox/commit/f62f3575f75a1c4b3030bc313a73bbe7517928da))
+
 ## [1.8.5](https://github.com/feerglas/release-env-sandbox/compare/v1.8.4...v1.8.5) (2025-04-04)
 
 
