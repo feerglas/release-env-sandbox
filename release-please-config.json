@@ -3,6 +3,26 @@
   "release-type": "simple",
   "changelog-sections": [
     {
+      "type": "build",
+      "section": "Build",
+      "hidden": false
+    },
+    {
+      "type": "chore",
+      "section": "Chore",
+      "hidden": false
+    },
+    {
+      "type": "ci",
+      "section": "CI",
+      "hidden": false
+    },
+    {
+      "type": "docs",
+      "section": "Documentation",
+      "hidden": false
+    },
+    {
       "type": "feat",
       "section": "Features",
       "hidden": false
@@ -13,20 +33,41 @@
       "hidden": false
     },
     {
-      "type": "docs",
-      "section": "Documentation",
+      "type": "perf",
+      "section": "Performance",
       "hidden": false
     },
     {
-      "type": "deps",
-      "section": "Dependencies",
+      "type": "refactor",
+      "section": "Refactor",
       "hidden": false
     },
     {
-      "type": "chore",
-      "section": "Chore",
+      "type": "revert",
+      "section": "Revert",
+      "hidden": false
+    },
+    {
+      "type": "style",
+      "section": "Style",
+      "hidden": false
+    },
+    {
+      "type": "test",
+      "section": "Test",
       "hidden": false
     }
+
+
+
+
+
+
+
+
+
+
+
   ],
   "pull-request-header": "FOOOOO",
   "packages": {
