@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.2](https://github.com/feerglas/release-env-sandbox/compare/v1.8.1...v1.8.2) (2025-04-04)
+
+
+### Chore
+
+* fix 1 ([a870e0b](https://github.com/feerglas/release-env-sandbox/commit/a870e0b4039bb5355d6303ff4abb3bb3825a7174))
+* fix 2 ([a870e0b](https://github.com/feerglas/release-env-sandbox/commit/a870e0b4039bb5355d6303ff4abb3bb3825a7174))
+
 ## [1.8.1](https://github.com/feerglas/release-env-sandbox/compare/v1.8.0...v1.8.1) (2025-04-04)
 
 
