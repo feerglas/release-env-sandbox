@@ -57,19 +57,8 @@
       "section": "Test",
       "hidden": false
     }
-
-
-
-
-
-
-
-
-
-
-
   ],
-  "pull-request-header": "FOOOOO",
+  "prerelease": true,
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md"
