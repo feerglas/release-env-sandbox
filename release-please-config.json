@@ -58,7 +58,7 @@
       "hidden": false
     }
   ],
-  "pull-request-footer": "",
+  "pull-request-footer": "This is an official SAGW release.",
   "packages": {
     ".": {
       "changelog-path": "CHANGELOG.md"
