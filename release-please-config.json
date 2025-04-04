@@ -28,7 +28,6 @@
       "hidden": false
     }
   ],
-  "versioning": "always-bump-patch",
   "pull-request-header": "FOOOOO",
   "packages": {
     ".": {
