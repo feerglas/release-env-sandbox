@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.0](https://github.com/feerglas/release-env-sandbox/compare/v1.8.6...v2.0.0) (2025-04-04)
+
+
+### Chore
+
+* wso-2 ([#68](https://github.com/feerglas/release-env-sandbox/issues/68)) ([296fdc8](https://github.com/feerglas/release-env-sandbox/commit/296fdc8d6cd710a63020648ca116e6ca2bce7d82))
+
 ## [1.8.6](https://github.com/feerglas/release-env-sandbox/compare/v1.8.5...v1.8.6) (2025-04-04)
 
 
