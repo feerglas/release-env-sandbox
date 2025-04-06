@@ -1,3 +1,8 @@
+# runs on pushes to main branch
+
+# TODO:
+# - RESET TO VERSION 0.0.1
+
 on:
   push:
     branches:
